@@ -1,6 +1,6 @@
 {
-  "homepage": "http://imfarruk.github.io/Techee_Website_In_ReactJS",
-  "name": "Techee_Website_In_ReactJS",
+  "homepage": "http://imfarruk.github.io/Increment_Decrement",
+  "name": "message",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
